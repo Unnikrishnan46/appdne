@@ -24,7 +24,18 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase":{
+            "apiKey": "AIzaSyCFpwos7wAASZPWmZKq5sGVBpbG0vIU0B0",
+            "authDomain": "tictok-84477.firebaseapp.com",
+            "projectId": "tictok-84477",
+            "storageBucket": "tictok-84477.appspot.com",
+            "messagingSenderId": "821062390802",
+            "appId": "1:821062390802:web:d05c07c0980eb3570474cb",
+            "measurementId": "G-347KWVB2S6"
+        }
+      }
     }
   }
 }
